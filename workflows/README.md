@@ -34,4 +34,3 @@ module.exports = {
 | DINGDING_WEBHOOK | 钉钉机器人WEBHOOK | 否 |
 | PUSHPLUS_TOKEN | [Pushplus](http://www.pushplus.plus/) 官网申请，支持微信消息推送 | 否 |
 |   WEIXIN_WEBHOOK | 企业微信机器人WEBHOOK                                    | 否 |
-
